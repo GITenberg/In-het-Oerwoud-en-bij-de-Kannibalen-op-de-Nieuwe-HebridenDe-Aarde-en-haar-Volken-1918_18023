@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7755'
     url: http://www.gutenberg.org/2009/agents/7755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18023#In-het-Oerwoud-en-bij-de-Kannibalen-op-de-Nieuwe-HebridenDe-Aarde-en-haar-Volken-1918
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-03-20'
 gutenberg_type: Text
