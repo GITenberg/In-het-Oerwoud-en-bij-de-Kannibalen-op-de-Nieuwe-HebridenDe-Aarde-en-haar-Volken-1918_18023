@@ -1,0 +1,29 @@
+_repo: In-het-Oerwoud-en-bij-de-Kannibalen-op-de-Nieuwe-HebridenDe-Aarde-en-haar-Volken-1918_18023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Speiser, Felix
+    birthdate: 1880
+    deathdate: 1949
+    gutenberg_agent_id: '7755'
+    url: http://www.gutenberg.org/2009/agents/7755
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18023'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Description and travel'
+- !lcc 'DU'
+title: 'In het Oerwoud en bij de Kannibalen op de Nieuwe Hebriden
+
+  De Aarde en haar Volken, 1918'
+url: http://www.gutenberg.org/ebooks/18023
